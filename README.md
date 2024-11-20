@@ -1,4 +1,4 @@
-- Hi, I’m @AmericanHuston
+- Hi, I’m American Huston/NASA_N
 - I’m interested in Lua and C++.
 - I’m currently learning, well, lua and C++.
 - I’m looking to collaborate on anything C++.
